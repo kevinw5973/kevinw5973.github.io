@@ -1,8 +1,8 @@
 let ownerName = "Your Name"
-let userName = "YourUsername";
+let userName = "kevinw5973";
 
 document.querySelectorAll(".owner-name").forEach((e) => {
-    e.innerHTML = ownerName;
+    e.innerHTML = Kevin Wang;
 });
 
 document.querySelector("#github").href = "http://github.com/" + userName;
